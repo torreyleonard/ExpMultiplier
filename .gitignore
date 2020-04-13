@@ -1,0 +1,8 @@
+# Project exclude paths
+/out/
+/target/
+.idea/
+expmultiplier.properties
+ExpMultiplier.iml
+expmultiplier.xml
+module_expmultiplier.xml

@@ -1,0 +1,14 @@
+name: ExpMultiplier
+version: ${project.version}
+main: com.voxela.expmultiplier.ExpMultiplier
+api-version: 1.13
+authors: [Ladinn]
+softdepend:
+  - ActionBarAPI
+commands:
+  xprate:
+    description: Main command.
+    usage: /<command>
+permissions:
+  voxela.xprate.admin:
+    description: Allows changing the experience multiplier.
